@@ -1,4 +1,4 @@
-# 📊 Pesquisa da Pecuária Municipal (PPM) — Análise de Dados
+# 🐄 Pesquisa da Pecuária Municipal (PPM) — Análise de Dados
 
 Este repositório contém uma **análise exploratória dos dados da Pesquisa da Pecuária Municipal (PPM)**, disponibilizados pelo **IBGE**. O objetivo é analisar a evolução dos rebanhos no Brasil ao longo do tempo, bem como sua distribuição geográfica por regiões, estados e municípios, utilizando **Python** e **Power BI**.
 
